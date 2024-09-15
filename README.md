@@ -1,4 +1,4 @@
-## Olá, eu sou o Pablo Carrijo, atualmente sou estudante de programação
+## Olá, eu sou o Pablo Carrijo, estudante de programação
 
 - 🌱 Estou estudando Java, C, C++ e Python
 - 📫 Contato: https://www.instagram.com/pablo_carrijo/ -- pablo.vcarrijo.trabalho@gmail.com

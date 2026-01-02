@@ -23,17 +23,6 @@
 
 <br></br>
 
-<div align="center" style="display: inline_block"> 
-
-  <a href="https://github.com/pablovcarrijo" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablovcarrijo&layout=compact&theme=codeSTACKr" alt="Spoiler do perfil de pablovcarrijo"/>
-  </a>
-  <a href="https://github.com/pablovcarrijo" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablovcarrijo&layout=compact&theme=codeSTACKr" alt="Spoiler das linguagens usadas por pablovcarrijo"/>
-  </a>
- 
- </div > 
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

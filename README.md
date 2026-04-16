@@ -6,8 +6,6 @@
   </a>
 </h1>
 
----
-
 <p align="center">
   Hi, I'm Pablo Vinicius Carrijo, Full-Stack developer/Coder 💻,  Learner 👨‍💻 from Brazil 🇧🇷.
   <br />

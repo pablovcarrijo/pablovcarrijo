@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=pablovcarrijo">
+<img align="right" src="https://komarev.com/ghpvc/?username=pablovcarrijo&color=blue&abbreviated=true">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

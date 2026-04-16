@@ -1,37 +1,50 @@
-## Olá, eu sou o Pablo Carrijo, estudante de programação
+<div align="center">
 
-- 🌱 Estou estudando Java, C, C++ e JavaScript
-- 📫 Contato: https://www.instagram.com/pablo_carrijo/ -- pablo.vcarrijo@gmail.com
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+world,+I'm+Pablo!!!&center=true&size=25)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
-  <img align="center" alt="Pablo-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-##
-  
-<div> 
-  <a href="https://www.instagram.com/pablo_carrijo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pablo.vcarrijo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pablo-vinicius-carrijo-173006315/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
 
-<br></br>
+Hello, I'm Pablo Carrijo, an Information Systems student at the Federal University of Uberlândia. I am passionate about technology and constantly improving my skills in programming and software development. I have been studying and building projects with Java and Spring Boot always focusing on strengthening my logical thinking, problem-solving, and back-end development skills.
+ 
+---
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
+## Linguagens e Tecnologias
 
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,py,php&theme=dark"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,swift,html,css&theme=dark"/>
+</p>
+
+### Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=maven,mysql,postgres,postman,docker&theme=dark"/>
+</p>
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablovcarrijo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablovcarrijo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.vcarrijo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablo_carrijo/)
+
+---
+
+<br>
+
+## Commits 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablovcarrijo/pablovcarrijo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pablovcarrijo/pablovcarrijo/output/github-contribution-grid-snake.svg">

@@ -1,16 +1,26 @@
-<div align="center">
+<img align="right" src="https://komarev.com/ghpvc/?username=pablovcarrijo">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+world,+I'm+Pablo!!!&center=true&size=25)
-
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+world!+👋;+I'm+Pablo!;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
 
 ---
 
-Hello, I'm Pablo Carrijo, an Information Systems student at the Federal University of Uberlândia. I am passionate about technology and constantly improving my skills in programming and software development. I have been studying and building projects with Java and Spring Boot always focusing on strengthening my logical thinking, problem-solving, and back-end development skills.
- 
+<p align="center">
+  Hi, I'm Pablo Vinicius Carrijo, Full-Stack developer/Coder 💻,  Learner 👨‍💻 from Brazil 🇧🇷.
+  <br />
+  <br />
+  🎓 Currently a high school student.
+  <br />
+  💻 I love to learn new technologies and frameworks.
+  <br />
+</p> 
+  
 ---
 
-## Linguagens e Tecnologias
+## Languages and framework tools
 
 ### Backend
 <p>
@@ -23,7 +33,7 @@ Hello, I'm Pablo Carrijo, an Information Systems student at the Federal Universi
   <img src="https://skillicons.dev/icons?i=js,swift,html,css&theme=dark"/>
 </p>
 
-### Ferramentas
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=maven,mysql,postgres,postman,docker&theme=dark"/>
 </p>
